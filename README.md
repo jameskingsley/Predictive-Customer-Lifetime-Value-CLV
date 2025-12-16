@@ -14,7 +14,7 @@ Predict customer lifetime value using RFM features and machine learning.
 ## Tools
 - Python (pandas, scikit-learn)
 - Looker Studio
-- Google BigQuery
+  Report link: https://lookerstudio.google.com/s/rFomH6XGbGU
 
 ## Outcome
 Identified high-value customers for targeted retention and marketing strategies.
